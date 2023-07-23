@@ -28,4 +28,4 @@ The project was completed in four main phases:
 
 
 ## Author:
-Gideon Dadzie
+Efobi Godwin
